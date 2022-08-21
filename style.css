@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* FUNDO MADEIRA E LETRA */ 
+body {
+    background-image: url(../MenuQ-/img/madeiira.jfif);
+    font-family: 'DynaPuff', cursive;
+    color: whitesmoke;
+}
+
+header {
+    text-align: center;
+}
+
+/* LOGO */
+header img {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h2 { 
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: greenyellow;
+}
+
+/* Pra fazer o fundo roxo */
+
+.container {
+    background-color: rgba(173, 0, 159, 0.8);
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 15px;
+    line-height: 16px;
+}
+
+h4 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    margin-bottom: 40px;
+    list-style: none;
+}
+
+.linha-horizontal {
+    width: 240px;
+    border: 5px solid #000;
+    margin: 0 auto;
+}
+
+.linha-horizontal-verde {
+    width: 240px;
+    border: 2px dashed greenyellow;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.linha-horizontal-verde-pequena {
+    width: 240px;
+    border: 2px dashed greenyellow;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.suco {
+    text-align: center;
+}
+
+.caipirinha {
+    text-align: center;
+}
+
+.milkshake {
+    text-align: center;
+}
+
+.acaikids {
+    text-align: center;
+}
+
+.petitfaim {
+    text-align: center;
+}
+
+.todebacon {
+    text-align: center;
+}
+
+.grilledchicken {
+    text-align: center;
+}
+
+.queromais {
+    text-align: center;
+}
+
+.duplosupremo {
+    text-align: center;
+}
+
+.duploqueijo {
+    text-align: center;
+}
+
+.triplesmash {
+    text-align: center;
+}
+
+.hotdog {
+    text-align: center;
+}
+
+.cachorrobrasileira {
+    text-align: center;
+}
+
+.cachorroqmais { 
+    text-align: center;
+}
+
+.cachorrobacon {
+    text-align: center;
+}
+
+.cone {
+    text-align: center;
+}
