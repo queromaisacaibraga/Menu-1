@@ -6,7 +6,7 @@
 
 /* FUNDO MADEIRA E LETRA */ 
 body {
-    background-image: url(/img/madeiira.jfif);
+    background-image: url(./img/madeiira.jfif);
     font-family: 'DynaPuff', cursive;
     color: whitesmoke;
 }
